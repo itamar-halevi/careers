@@ -5,8 +5,21 @@ place engineers, designers, data people, and operations staff with early-
 and growth-stage companies, mostly in Israel and remote Europe.
 
 We're brand new, and our public website is still under construction.
-This repository is our internal careers desk - roles, process, and
-templates live here. Content lands here over the coming weeks.
+This repository is our internal careers desk, and we share it with
+candidates as-is: who we are, the roles we are hired to fill, how our
+process works, and the templates we ask applicants to use.
+
+If you got this link from one of us - yes, this is really our working
+system. It's also exactly what we show candidates: same roles, same
+process, same templates. You see what we see.
+
+## Applying
+
+1. Read [how to apply](apply/how-to-apply.md).
+2. Prepare your CV with our [template](apply/cv-template.md) (any format is
+   fine, the template just shows what we actually read).
+3. Email it to mirellepartners@gmail.com with the role's subject line, or
+   use the form in [apply/application-form.md](apply/application-form.md).
 
 ## Contact
 
