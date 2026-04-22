@@ -12,7 +12,7 @@ agree to be presented.
 Yes. Tell us in one email; we coordinate internally so you don't repeat
 yourself.
 
-**I had a bad expirience with recruiters before. Why are you different?**
+**I had a bad experience with recruiters before. Why are you different?**
 Fair. Judge us by the two things you can check: every application gets an
 answer, and salary ranges are in our ads. If we break either, tell the
 consultant; if that doesn't fix it, email Mirelle directly —
