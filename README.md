@@ -21,6 +21,9 @@ process, same templates. You see what we see.
 3. Email it to mirellepartners@gmail.com with the role's subject line, or
    use the form in [apply/application-form.md](apply/application-form.md).
 
+Every application gets an answer. Our full process, including timelines, is
+in [process/interview-process.md](process/interview-process.md).
+
 ## Contact
 
 One inbox, read by people: **mirellepartners@gmail.com**
