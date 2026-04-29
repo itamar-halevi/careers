@@ -14,9 +14,10 @@
 ## Open application
 
 No fitting role? Same address, subject "Open application". Tell us what
-you want to do next and what you are good at, in plain language. We keep
-open applications for six months and search them first when a new search
-opens — it is the single best way to reach us before a role is public.
+you want to do next and what you are good at, in plain language. If you tell us to, we keep
+your application for six months and search it first when a new search
+opens - just write "keep me in the pool" in your email. Otherwise we
+delete it when the process ends, per our [privacy notice](../policies/privacy-notice.md).
 
 ## What happens next
 
