@@ -13,6 +13,15 @@ If you got this link from one of us - yes, this is really our working
 system. It's also exactly what we show candidates: same roles, same
 process, same templates. You see what we see.
 
+## Current openings
+
+| Role | Team | Location | Type |
+|---|---|---|---|
+| [QA Automation Engineer](roles/qa-automation-engineer.md) | Client: dev-tools | Tel Aviv (hybrid) | Full-time |
+
+No role that fits? Send an open application — see
+[apply/how-to-apply.md](apply/how-to-apply.md).
+
 ## Applying
 
 1. Read [how to apply](apply/how-to-apply.md).
