@@ -5,8 +5,8 @@ No. Candidates never pay us. Our fees come from the hiring companies.
 
 **Will my current employer find out I'm looking?**
 Not through us. We never contact references from your current employer
-without asking you first, and client names stay confidential until you
-agree to be presented.
+without asking you first, and client names stay confidential until the intro call -
+you hear exactly who the client is before you agree to be presented.
 
 **Can I apply to more than one role?**
 Yes. Tell us in one email; we coordinate internally so you don't repeat

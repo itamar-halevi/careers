@@ -2,7 +2,7 @@
 
 1. **Every application gets an answer.** Usually within a week, always
    eventually. "No" is an answer; silence is not.
-2. **We tell candidates who the client is before the first interview.**
+2. **We tell candidates who the client is at the intro-call stage.**
    No mystery-company games. If we can't disclose the client yet, we say
    exactly why and what we can share.
 3. **Salary ranges go in the ad.** When a client forbids it, we take the
