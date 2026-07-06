@@ -6,8 +6,10 @@ and growth-stage companies, mostly in Israel and remote Europe.
 
 We're brand new, and our public website is still under construction.
 This repository is our internal careers desk, and we share it with
-candidates as-is: who we are, the roles we are hired to fill, how our
-process works, and the templates we ask applicants to use.
+candidates as-is: who we are, the roles we are currently hired to fill,
+how our process works, and the templates we ask applicants to use. The
+simple page in `/docs` is the candidate-facing summary, mirrored from the
+markdown by hand - the markdown is the source of truth.
 
 If you got this link from one of us - yes, this is really our working
 system. It's also exactly what we show candidates: same roles, same
