@@ -1,7 +1,7 @@
 # Backend Engineer — Payments Platform
 
 **Client:** Series B fintech (~90 people), licensed EMI, processing B2B
-cross-border payments. **Location:** Tel Aviv, hybrid (2 days on site).
+cross-border payments. **Location:** Tel Aviv, hybrid (3 days on site).
 **Type:** Full-time. **Salary range:** 32,000–42,000 ILS gross/month,
 depending on seniority, plus equity.
 
