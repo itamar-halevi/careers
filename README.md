@@ -19,9 +19,11 @@ process, same templates. You see what we see.
 
 | Role | Team | Location | Type |
 |---|---|---|---|
-| [QA Automation Engineer](roles/qa-automation-engineer.md) | Client: dev-tools | Tel Aviv (hybrid) | Full-time |
 | [Backend Engineer, payments platform](roles/backend-engineer-payments.md) | Client: fintech, Series B | Tel Aviv (hybrid) | Full-time |
 | [Data Analyst](roles/data-analyst.md) | Client: e-commerce | Haifa (hybrid) | Full-time |
+
+Recently filled roles live in [roles/filled/](roles/filled/) — we keep them
+visible so you can see the kind of searches we run.
 
 No role that fits? Send an open application — see
 [apply/how-to-apply.md](apply/how-to-apply.md).
