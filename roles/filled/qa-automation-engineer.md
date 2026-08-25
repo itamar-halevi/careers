@@ -1,5 +1,10 @@
 # QA Automation Engineer
 
+> **This role has been filled.** Listing kept for reference - similar searches
+> come back often. For future openings, see [how to apply](../apply/how-to-apply.md).
+
+---
+
 **Client:** dev-tools startup (~40 people), CI observability product.
 **Location:** Tel Aviv, hybrid (2 days on site). **Type:** Full-time.
 **Salary range:** 25,000–33,000 ILS gross/month.
