@@ -22,6 +22,7 @@ process, same templates. You see what we see.
 | [Backend Engineer, payments platform](roles/backend-engineer-payments.md) | Client: fintech, Series B | Tel Aviv (hybrid) | Full-time |
 | [Data Analyst](roles/data-analyst.md) | Client: e-commerce | Haifa (hybrid) | Full-time |
 | [Product Designer](roles/product-designer.md) | Client: health-tech | Remote (EU/IL) | Full-time |
+| [Office & Operations Manager](roles/office-operations-manager.md) | Mirelle, internal | Tel Aviv | Part-time (60%) |
 
 Recently filled roles live in [roles/filled/](roles/filled/) — we keep them
 visible so you can see the kind of searches we run.
