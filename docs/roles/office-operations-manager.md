@@ -1,7 +1,8 @@
 # Office & Operations Manager — Mirelle (internal)
 
 **Employer:** Mirelle Talent Partners (this is our own seat, not a client
-role). **Location:** Tel Aviv office. **Type:** Part-time,
+role). **Location:** Tel Aviv area - meetings by appointment.
+**Type:** Part-time,
 60% position — three full days a week, days flexible.
 **Salary:** 9,000–11,000 ILS gross/month (pro-rated from full-time).
 
