@@ -42,3 +42,12 @@ footer {
   padding: 18px 0 32px;
 }
 a { color: var(--accent); }
+
+/* team */
+ul.team { list-style: none; padding: 0; }
+ul.team li { display: flex; gap: 14px; align-items: flex-start; padding: 14px 0; border-bottom: 1px solid var(--line); }
+ul.team li:last-child { border-bottom: none; }
+ul.team .avatar { flex: 0 0 44px; width: 44px; height: 44px; border-radius: 50%;
+  background: var(--accent); color: #fff; font-weight: 600; font-size: 15px;
+  display: flex; align-items: center; justify-content: center; }
+ul.team span { color: var(--muted); }
