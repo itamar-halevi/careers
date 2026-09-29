@@ -23,7 +23,7 @@ delete it when the process ends, per our [privacy notice](../policies/privacy-no
 
 - **Within 3 business days:** confirmation from a person (usually Itamar),
   not an autoresponder.
-- **Within 10 business days:** a yes/no on moving to a first call, with a
+- **Within a week:** a yes/no on moving to a first call, with a
   reason if no.
 
 If we miss a deadline, nudge us. It means we are behind, not that you were
