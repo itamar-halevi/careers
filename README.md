@@ -15,6 +15,11 @@ If you got this link from one of us - yes, this is really our working
 system. It's also exactly what we show candidates: same roles, same
 process, same templates. You see what we see.
 
+A note on history: we ran this desk locally since spring 2026 and
+imported it to GitHub on September 29, 2026, as part of opening the
+hiring process to candidates. The commit history is the import of that
+local working copy.
+
 ## Current openings
 
 | Role | Team | Location | Type |
