@@ -38,7 +38,7 @@ settlement pipeline. Stack: Kotlin, PostgreSQL, Kafka, Kubernetes on GCP.
 Intro call (Itamar, 30 min) → technical conversation with the team lead
 (60 min, no live coding) → take-home exercise (~3 hours, paid if you reach
 the final stage) → final day on site. Full details in
-[the application page](../apply.md).
+[the process page](../process.md).
 
 **Apply:** mirellepartners@gmail.com, subject "Backend Engineer —
-Payments". CV expectations on [the application page](../apply.md).
+Payments". CV expectations in [the CV template](../cv-template.md).
