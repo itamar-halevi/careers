@@ -10,6 +10,7 @@ Each file holds:
 - source (calendar)
 - the confirmation text, as sent
 
-File the confirmation when the meeting is set; add short notes after it
-happens, in the same file. The blank starting point is
+Until now we kept meeting confirmations in the inbox threads; from today
+they are being consolidated here. File the confirmation when the meeting is
+set; add short notes after it happens, in the same file. The blank starting point is
 `internal/meeting-confirmation-template.md`.
