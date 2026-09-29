@@ -32,6 +32,6 @@ stressful week.
 - Bookkeeping software exposure (Hashavshevet/ Priority a plus).
 - Previous HR-adjacent work.
 
-**Apply:** mirellepartners@gmail.com, subject "Ops Manager — Mirelle".
+**Apply:** itamar1@tutamail.com, subject "Ops Manager — Mirelle".
 Tell us in a few lines what kind of week suits you — this role can be
 shaped around the right person.

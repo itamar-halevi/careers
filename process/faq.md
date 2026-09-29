@@ -16,7 +16,7 @@ yourself.
 Fair. Judge us by the two things you can check: every application gets an
 answer, and salary ranges are in our ads. If we break either, tell the
 consultant; if that doesn't fix it, email Mirelle directly —
-mirellepartners@gmail.com reaches the founder.
+itamar1@tutamail.com reaches the founder.
 
 **Do you handle relocation?**
 For the roles marked remote EU/IL, no relocation is involved. For Tel Aviv

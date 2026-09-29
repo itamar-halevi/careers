@@ -16,4 +16,4 @@ Two practical commitments beyond the statement:
    we say so and renegotiate it or walk. We have walked.
 
 Concerns about discrimination in any process we run: Mirelle Azoulay,
-mirellepartners@gmail.com. It is read.
+itamar1@tutamail.com. It is read.

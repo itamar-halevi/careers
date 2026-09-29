@@ -35,7 +35,7 @@ No role that fits? Send an open application — see
 1. Read [how to apply](apply/how-to-apply.md).
 2. Prepare your CV with our [template](apply/cv-template.md) (any format is
    fine, the template just shows what we actually read).
-3. Email it to mirellepartners@gmail.com with the role's subject line, or
+3. Email it to itamar1@tutamail.com with the role's subject line, or
    use the form in [apply/application-form.md](apply/application-form.md).
 
 Every application gets an answer. Our full process, including timelines, is
@@ -43,7 +43,7 @@ in [process/interview-process.md](process/interview-process.md).
 
 ## Contact
 
-One inbox, read by people: **mirellepartners@gmail.com**
+One inbox, read by people: **itamar1@tutamail.com**
 (candidates and general questions alike — we're four people, it reaches us).
 
 Mirelle Talent Partners, Tel Aviv.

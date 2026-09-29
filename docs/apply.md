@@ -5,7 +5,7 @@
 1. Read the full role page in [the roles list](./index.html#roles). Check the location and
    the "what we're looking for" section honestly — we would rather get
    fewer, better applications.
-2. Send your CV to **mirellepartners@gmail.com** with the role's
+2. Send your CV to **itamar1@tutamail.com** with the role's
    subject line as listed on the role page.
 3. Attach or link anything the role page asks for (portfolio for design,
    for example). A cover letter is optional everywhere; if you write one,

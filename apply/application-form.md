@@ -1,7 +1,7 @@
 # Application form (email format)
 
 The CV is the application. If you prefer a bit of structure, copy this into
-your message to mirellepartners@gmail.com:
+your message to itamar1@tutamail.com:
 
 ```
 Role applied for (or "open application"):

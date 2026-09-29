@@ -17,7 +17,7 @@ profiling systems.
 
 **How long.** Active processes: until they close. Pool with consent: six
 months from last contact, then deleted unless you renew. You can ask us to
-delete everything, any time, at mirellepartners@gmail.com — deletion
+delete everything, any time, at itamar1@tutamail.com — deletion
 is confirmed in writing within 7 days.
 
 **Your rights.** Access, correction, deletion, and withdrawal of consent,

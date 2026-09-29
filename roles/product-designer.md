@@ -29,5 +29,5 @@ and expects the designer in them.
 - Accessibility certification or demonstrable WCAG 2.2 work.
 - Motion design for micro-interactions.
 
-**Apply:** mirellepartners@gmail.com, subject "Product Designer".
+**Apply:** itamar1@tutamail.com, subject "Product Designer".
 Portfolio required; a public link is fine.

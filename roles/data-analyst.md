@@ -26,4 +26,4 @@ seats at this level.
 - Marketing measurement exposure: MMM, incrementality tests, attribution
   arguments you've had.
 
-**Apply:** mirellepartners@gmail.com, subject "Data Analyst — Haifa".
+**Apply:** itamar1@tutamail.com, subject "Data Analyst — Haifa".

@@ -40,5 +40,5 @@ Intro call (Itamar, 30 min) → technical conversation with the team lead
 the final stage) → final day on site. Full details in
 [the process page](../process.md).
 
-**Apply:** mirellepartners@gmail.com, subject "Backend Engineer —
+**Apply:** itamar1@tutamail.com, subject "Backend Engineer —
 Payments". CV expectations in [the CV template](../cv-template.md).
