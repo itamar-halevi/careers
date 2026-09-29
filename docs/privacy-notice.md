@@ -1,7 +1,7 @@
 # Candidate privacy notice
 
-Short version, in plain language. The formal version (Hebrew, per
-Israeli Privacy Protection Law amendment 13) is available on request.
+Short version, in plain language. The [Hebrew version](./privacy-notice-he.md)
+(per Israeli Privacy Protection Law amendment 13) is in this folder.
 
 **What we collect.** Your CV and anything you send with it, notes from our
 conversations, references you approve, and technical correspondence data.
