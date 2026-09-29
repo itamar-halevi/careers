@@ -9,9 +9,9 @@ role). **Location:** Tel Aviv area - meetings by appointment.
 ## The role
 
 Three of us recruit; Tomer runs contracts, invoicing, and our tooling.
-The rest of the office needs an owner. You would own: office logistics and
-vendors, scheduling and meeting logistics, travel, and keeping our
-candidate-facing templates and materials current. Tomer stays on the
+The rest of the day-to-day needs an owner. You would own: vendor
+relationships, scheduling and meeting logistics, travel coordination, and
+keeping our candidate-facing templates and materials current. Tomer stays on the
 contracts and systems side - the two of you will overlap plenty, and that
 is the point.
 
