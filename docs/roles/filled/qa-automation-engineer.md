@@ -1,7 +1,7 @@
 # QA Automation Engineer
 
 > **This role has been filled.** Listing kept for reference - similar searches
-> come back often. For future openings, see [how to apply](../apply/how-to-apply.md).
+> come back often. For future openings, see [how to apply](../apply.md).
 
 ---
 
